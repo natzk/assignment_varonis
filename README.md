@@ -6,6 +6,6 @@ To run this file you can:
 1. clone the repo to you local machine and run using the terminal.
    In the terminal run the command 'pytest' (will execute all the test files)
 2. Execute the docker image by running the following command in the terminal:
-    docker load -i tl-approval-feature.tar
-    docker run tl-approval-feature
+   docker load -i tl-approval-feature.tar
+   docker run tl-approval-feature
 
